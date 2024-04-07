@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Novikreact/static/css/main.9ed00700.css",
+    "main.js": "/Novikreact/static/js/main.d131245a.js",
+    "static/js/453.2ee20819.chunk.js": "/Novikreact/static/js/453.2ee20819.chunk.js",
+    "static/media/reebok.jpg": "/Novikreact/static/media/reebok.96adda8d30d659d6181c.jpg",
+    "static/media/levis.jpg": "/Novikreact/static/media/levis.1d142dba1fa62f15c0c9.jpg",
+    "static/media/braun.jpg": "/Novikreact/static/media/braun.e126068716788b46ec4c.jpg",
+    "static/media/ps.jpg": "/Novikreact/static/media/ps.9d3f0827ecc139d869c9.jpg",
+    "static/media/ai.jpg": "/Novikreact/static/media/ai.68c326ff6a6c82ec8ad5.jpg",
+    "static/media/star-black.svg": "/Novikreact/static/media/star-black.eb22366a15ccabb5a5417deba5dcbfc2.svg",
+    "index.html": "/Novikreact/index.html",
+    "main.9ed00700.css.map": "/Novikreact/static/css/main.9ed00700.css.map",
+    "main.d131245a.js.map": "/Novikreact/static/js/main.d131245a.js.map",
+    "453.2ee20819.chunk.js.map": "/Novikreact/static/js/453.2ee20819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed00700.css",
+    "static/js/main.d131245a.js"
+  ]
+}
